@@ -13,7 +13,7 @@ body {
 
 /* apply styles to <header> */
 header {
-    padding: 20px 35px;
+    padding: 20px 35px 30px;
     background-color: #39a6b2;
 }
 
@@ -39,13 +39,14 @@ header nav {
 }
 
 header nav ul li {
-    display: inline;
+    display: inline-block;
 }
 
 header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+    font-size: 1.719vw;
 }
 
 /* apply styles to the footer */
@@ -203,6 +204,7 @@ section {
 
 .trainer {
     width: 900px;
+    width: 70.3vw;
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
@@ -255,9 +257,6 @@ section {
     color: #fce138;
 }
 
-.contact h3 {
-    color: #fce138;
-}
 .contact-info iframe {
     width: 400px;
     height: 400px;
@@ -271,3 +270,21 @@ section {
     margin: 30px 0 0 60px;
     color: white;
 }
+
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
+}
+
+/* REACH OUT STYLES END */
