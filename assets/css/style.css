@@ -138,11 +138,6 @@ section {
     text-align: center;
 }
 
-/* remove this entire CSS rule */
-.intro h2 {
-
-}
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -154,11 +149,6 @@ section {
 .steps {
     text-align: center;
     background: #fce138;
-}
-
-/* remove this entire CSS rule */
-.steps h2 {
-
 }
 
 .steps div {
