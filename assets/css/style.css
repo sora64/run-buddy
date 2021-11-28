@@ -46,7 +46,6 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
-    font-size: 1.719vw;
 }
 
 /* apply styles to the footer */
@@ -204,7 +203,6 @@ section {
 
 .trainer {
     width: 900px;
-    width: 70.3vw;
     margin: 0 auto 30px auto;
     background: #024e76;
     color: #fce138;
