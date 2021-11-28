@@ -12,3 +12,5 @@ https://sora64.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Alan Phelps
+
+## ©️2019 Run Buddy, Inc
