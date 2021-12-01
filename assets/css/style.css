@@ -559,6 +559,12 @@ section {
         text-align: center;
     }
 
+    .contact-info iframe {
+        height: 300px;
+        width: 150px;
+        display: block;
+    }
+
     .contact-info > * {
         flex: 0 100%;
     }
