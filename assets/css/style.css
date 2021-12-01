@@ -561,9 +561,9 @@ section {
 
     .contact-info iframe {
         height: 300px;
-        width: 150px;
-        display: block;
-    }
+        width: 80%;
+        margin: 0 auto 10px auto;
+        }
 
     .contact-info > * {
         flex: 0 100%;
