@@ -560,7 +560,9 @@ section {
     }
 
     .contact-info iframe {
-        justify-content: center;
+        height: 300px;
+        width: 150px;
+        display: block;
     }
 
     .contact-info > * {
