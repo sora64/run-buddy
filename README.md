@@ -19,6 +19,9 @@ This application may be run by downloading the index.html file and the assets fo
 
 This is a simple front-end design application, showcasing the fundamentals of HTML and CSS.
 
+## Screenshot
+![screenshot](/assets/images/run-buddy-screenshot.png)
+
 ## Questions
 
 - GitHub: [sora64](https://github.com/sora64/)
